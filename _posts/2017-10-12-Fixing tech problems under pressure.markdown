@@ -1,9 +1,9 @@
 
 # Stopping the blame game in Tech
 ## Overview
-This posts looks at the problems people have when they need to work under pressure. It's documented that under pressure people gravitate to general, rather than technical skills(http://bit.ly/AllspawThesis), and experience shows that under pressure we can revert to silo behaviour, defending our territory rather than looking to solve the issue.
+This posts looks at the problems people have when they need to work together under pressure to solve a problem. It's documented that under pressure people gravitate to general, rather than technical skills (http://bit.ly/AllspawThesis), and experience shows that under pressure we can revert to silo behaviour, defending our territory before looking to solve the issue.
 
-In high pressure situations, such as a Major Incident there can be a lack of psychological safety, and people may avoid suggesting diagnosis because they risk being judged if they are not correct. (https://en.wikipedia.org/wiki/Psychological_safety)
+In high pressure situations, such as a Major IT Incident there can be a lack of psychological safety, and people may avoid suggesting diagnosis because they risk being judged if they are not correct. (https://en.wikipedia.org/wiki/Psychological_safety)
 
 This post suggests
 * an overall framework for a team solving a problem with a complicated IT system
@@ -12,7 +12,7 @@ This post suggests
 
 
 ### What we build
-Our lives run on complicated IT systems. Individually, and with enough data we can we can know how these systems will behave given certain inputs, and with testing we can know ways they will fail. The systems we find useful are usually many individual systems working together and this is what makes finding issues so tricky.
+Our lives run on complicated IT systems. Individually, and with enough data we can we can know how these systems will behave given certain inputs. With testing we can know some of the ways they may fail. The systems we find useful are usually many individual systems working together and this is what makes finding issues so tricky. We can't know in advance all the ways they may work together, and we can't test every combination of failure. We'll need to fix problems that no-one expected.
 
 As an example, to access an hypothetical application to allow you to pay for on-street parking there are a number of high level systems that need to work together.
 Phone (OS version Software Version, App, App Login Details, SIM, Credit) - Phone Network (Signal, carrier), IP Network (routing), Cloud Provider (), Application (DNS, Regions, Availability Design, security, caches, front end code, backend databases), and these all need to be functional, and work at scale under load.
@@ -24,8 +24,8 @@ For the software component, we may have monolithic applications, where there is 
 ### How we build it
 How we build these systems has an effect on how we fix them when things go wrong.
 
-If there are three teams building your application, you'll probably get an application with three parts. You may design it this way, of you may get  whatever existed in the organisation. This Conway's Law for your application (http://www.melconway.com/Home/Conways_Law.html).
-You can also use Ashby Law of Requisite Variety (http://requisitevariety.co.uk/what-is-requisite-variety/)  at either the design or problem fixing stage to see what's wrong.
+If there are three teams building your application, you'll probably get an application with three parts. You may design it this way, of you may get a mirror of whatever your organisation structure is. This Conway's Law for your application (http://www.melconway.com/Home/Conways_Law.html).
+You can also use Ashby Law of Requisite Variety (http://requisitevariety.co.uk/what-is-requisite-variety/)  at either the design or problem fixing stage to see where issues are likely.
 However your silos break up, you'll all need to come together when something big goes wrong.
 
 
