@@ -1,5 +1,5 @@
 #Coaching
-## Mike Haber Coaching & Consulting
+## Mike Haber Coaching and Consulting
 ## mike@make10louder.co.uk
 ## 07565 178 791
 ## https://appear.in/make-10-louder
