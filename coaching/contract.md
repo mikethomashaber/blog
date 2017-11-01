@@ -1,4 +1,3 @@
-# Coaching Agreement
 ## Mike Haber Coaching & Consulting
 ## mike@make10louder.co.uk
 ## 07565 178 791
