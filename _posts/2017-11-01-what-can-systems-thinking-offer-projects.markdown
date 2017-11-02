@@ -119,7 +119,7 @@ when you've written your code, the test will pass if the code works and fail if 
 Run the test and See it fail
 Write the code to make it work.
 Add more tests if you think of them.
-The TDD [workflow](http://www.agiledata.org/essays/tdd.html){[]} looks like this
+The TDD [workflow](http://www.agiledata.org/essays/tdd.html) looks like this
 
 
 )
