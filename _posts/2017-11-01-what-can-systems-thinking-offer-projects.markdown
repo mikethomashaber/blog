@@ -1,12 +1,18 @@
+---
+layout: post
+title: How can Systems Thinking support Projects
+categories: CSH
+---
+
 I wrote this post after seeing an upcoming seminar on how systems thinking can help projects from the Association of Project Management. As I write this, this seminar is in the future, so I'll have to see what it says.
 
 The question made me think, and I've produced the following way that systems thinking can help a project assess successes in delivering value. I think this suggestion is both simple, and has sound basis in practice and theory. I've used ideas from Werner Ulrichs' Critical Systems Heuristics combined with the framework of Test Driven Software Development, and Clean Interviewing based on David Groves Clean Language.
 
-What do I mean by Project?
+## What do I mean by Project?
 
 I'm using the word project in the widest possible sense here, as a container for purposeful work. So redesigning Government Departments, building relief roads, developing software solutions all count however they are managed.
 
-What is the problem?
+## What is the problem we're looking at?
 
 I'm going to assume that following is a problem. Projects is they often start with goals of doing some thing to help people, or improve a situation , but end up having success measured by a tick list of 'deliverables'.
 
@@ -16,29 +22,31 @@ I see this as a problem because often projects are funded because of the benefit
 
 So something can be funded because it should benefit you, but can be seen as a success even it it makes things worse for you.
 
-Overview
+## Overview
 
 I propose to use a framework based on Software Test Driven Development(TDD) that systematically allows you to select your Stakeholders and ask them a pre defined set of questions, with Clean Language follow up questions. T
 
 The answers are used to measure if the project has delivered the benefits that it set out to deliver. By asking questions first, this approach defines 'done' before any work is started.
 
-Measuring Success
+## Measuring Success
 
 The two sides of project success are
 
-the technical implementation of the thing that can be measured quantitatively. Do we have a thing?
-the overall purpose of the thing. Measure qualitatively, with value and needs met.
+* the technical implementation of the thing that can be measured quantitatively.
+* Do we have a thing?
+* how the thing meets it's purpose.
+* Measure qualitatively, with value and needs met.
 
 
-Problems with measuring purpose
+## Problems with measuring purpose
 
 It's possible to develop a technically brilliant solution to the wrong problem. This is summed up in the phrase "Doing the wrong thing righter". Did we stay in budget, did we deliver on time are quantifiable, but it's possible to build the wrong thing, but be on time and on budget.  Did we do the right thing is harder to define.
 
 Building the wrong thing, but on time and in budget is not 66% success. It's 0% success.
 
-How do we currently measure Success?
+## How do we currently measure Success?
 
-Measuring success is complicated. We can categorise project success into Time, Cost and Quality.
+Measuring success is complicated. Project success can be categorised into Time, Cost and Quality.
 
 A post from Aexlos suggests the following metrics, based on the PRINCE2 methodology suggests the following
 
@@ -58,7 +66,7 @@ We can also do this within a framework based on Test Driven Development, where t
 
  
 
-Part 1. Who are our stakeholders?
+## Part 1. Who are our stakeholders?
 
 To find stakeholders, ask
 
@@ -74,7 +82,7 @@ If the project has funding because it will benefit someone who is not on the lis
 
 If the project is just to build a thing, because someone wants thing and doesn't value people who may be affected that is fine too.
 
-Part 2. What do we ask stakeholders?
+## Part 2. What do we ask stakeholders?
 
 We can use to published academic research, rather than design our own questions. In 1983 Werner Ulrich created Critical System Heuristics (CSH)to look at what he calls 'Boundary Judgements'.
 
@@ -100,7 +108,7 @@ If your project doesn't pass the tests you're not done yet, because you're using
 
  
 
-Test Driven Software Development
+## Test Driven Software Development
 
 In software development there is a thing called test driven development. It's a pretty good way to write software and it's been around for a while.
 
@@ -112,17 +120,18 @@ when you've written your code, the test will pass if the code works and fail if 
 Run the test and See it fail
 Write the code to make it work.
 Add more tests if you think of them.
-The TDD workflow looks like this
+The TDD [workflow](http://www.agiledata.org/essays/tdd.html) looks like this
 
 
-http://www.agiledata.org/essays/tdd.html
+)
 Tests are small, and there are often lots of them. Usually when a developer commits some code all the tests automatically run, and you don't go home until they pass.
 
 Test Driven Development, or TDD, gives reassurances that when things change all the known tests still work, or you get visible errors.
 
-Systems Thinking and Projects To Do
+## Systems Thinking and Projects To Do
 
 Produce some examples of projects measured in this way.
 Design the feedback loops and communications required if the success criteria  changes around what stakeholders we vaule.
 This is moving something from within the boundary of what we care about to outside this boundary
 What to do when stakeholder requirements change. This is expected, as stakeholders learn more about the situation, and the output of the project takes shape.
+:w

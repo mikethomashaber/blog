@@ -1,5 +1,8 @@
+---
+layout: post
+title: Fixing Tech problems under pressure
+---
 
-# Stopping the blame game in Tech
 ## Overview
 This posts looks at the problems people have when they need to work together under pressure to solve a problem. It's documented that under pressure people gravitate to general, rather than technical skills (http://bit.ly/AllspawThesis), and experience shows that under pressure we can revert to silo behaviour, defending our territory before looking to solve the issue.
 

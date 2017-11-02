@@ -1,4 +1,10 @@
-Digital Strategy and the Learning Wall
+---
+layout: post
+title: Digital Strategies and the Double Loop Learning Wall
+---
+
+![My helpful screenshot]({{ "/assets/DSC00051.JPG" | absolute_url }})
+
 
 What's the difference between a Strategy and a Digital strategy? Haven't we been using IT strategically for years? We have Chief Digital Officers? What does it all mean?
 
