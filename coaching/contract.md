@@ -12,7 +12,7 @@ Number of Sessions:
 
 Cost per session:
 
-#### As your coach, I will endeavour to:
+#### As your coach, I will:
 * Be open, honest, non-judgemental and will raise any issues that occur during the coaching
 * Be focused on you and your best interests, which include your goals and outcomes
 * Support and encourage you while you develop 
