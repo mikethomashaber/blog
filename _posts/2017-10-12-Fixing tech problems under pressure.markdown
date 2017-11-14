@@ -6,20 +6,41 @@ title: Fixing Tech problems under pressure
 ## Overview
 This posts looks at the problems people have when they need to work together under pressure to solve a problem. It's documented that under pressure people gravitate to general, rather than technical skills (http://bit.ly/AllspawThesis), and experience shows that under pressure we can revert to silo behaviour, defending our territory before looking to solve the issue.
 
-In high pressure situations, such as a Major IT Incident there can be a lack of psychological safety, and people may avoid suggesting diagnosis because they risk being judged if they are not correct. (https://en.wikipedia.org/wiki/Psychological_safety)
+In high pressure situations, such as a Major IT Incident there can be a lack of psychological safety, and people may avoid suggesting diagnosis because they risk being judged if they are not correct. (https://en.wikipedia.org/wiki/Psychological_safety).
 
 This post suggests
 * an overall framework for a team solving a problem with a complicated IT system
-* a way to share and collaborate across knowledge silos to find the cause of the issue
+* a way to share and collaborate across knowledge silos to find the cause of an issue
 * a technique to create cross silo documentation
 
 
-### What we build
-Our lives run on complicated IT systems. Individually, and with enough data we can we can know how these systems will behave given certain inputs. With testing we can know some of the ways they may fail. The systems we find useful are usually many individual systems working together and this is what makes finding issues so tricky. We can't know in advance all the ways they may work together, and we can't test every combination of failure. We'll need to fix problems that no-one expected.
+### We use complicated Systems
+Our lives run on complicated IT systems. Individually, and with enough data we can know how these systems will behave given known inputs. We can know some of the ways they may fail. The systems we find useful are often many systems working together and this makes finding issues tricky. We can't know in advance all the ways they may work together, and we can't test every combination of failure. We'll need to fix problems that no-one expected.
 
-As an example, to access an hypothetical application to allow you to pay for on-street parking there are a number of high level systems that need to work together.
-Phone (OS version Software Version, App, App Login Details, SIM, Credit) - Phone Network (Signal, carrier), IP Network (routing), Cloud Provider (), Application (DNS, Regions, Availability Design, security, caches, front end code, backend databases), and these all need to be functional, and work at scale under load.
-Once you've paid for your parking, there is a feedback loop, usually a text to say that you have paid, as you won't have a ticket. Then an in person feedback loop occurs to see that everyone has paid for parking, and this person needs access to the system to give out fines.
+For example in an application to pay for on-street parking there are a number systems that need to work together.
+
+* Phone (OS version Software Version
+ * App
+  * App Login Details
+  * SIM
+  * Credit -
+* Phone Network
+ * Signal
+ * carrier
+* IP Network
+ * routing
+* Cloud Provider
+ * Application
+ * DNS
+ * Regions
+  * Availability Design
+ * security
+ * caches
+ * front end code
+ * backend databases
+
+These all need to be functional, and work at scale.
+Once you've paid for your parking on an App, there is a digital feedback loop, usually a text to say that you have paid, as you won't have a ticket. Then a physical feedback loop occurs when a parking warden sees that everyone has paid for parking. This person needs access to the system to give out fines.
 
 For the software component, we may have monolithic applications, where there is basically one big chunk of code that does everything, or we may be using microservices (https://en.wikipedia.org/wiki/Microservices), where lots of decoupled bits of code talk to each other. Each of these presents it's own issues if you'd like to know why something specific is happening.
 
@@ -28,18 +49,10 @@ For the software component, we may have monolithic applications, where there is 
 How we build these systems has an effect on how we fix them when things go wrong.
 
 If there are three teams building your application, you'll probably get an application with three parts. You may design it this way, of you may get a mirror of whatever your organisation structure is. This Conway's Law for your application (http://www.melconway.com/Home/Conways_Law.html).
-You can also use Ashby Law of Requisite Variety (http://requisitevariety.co.uk/what-is-requisite-variety/)  at either the design or problem fixing stage to see where issues are likely.
-However your silos break up, you'll all need to come together when something big goes wrong.
 
-
-### How we maintain it
-
-### It should never go wrong, right?
-We build systems to be resilient to errors. We may do this through replication of components, backup systems or have resilience designed in from the start. Netfix has a Chaos Monkey that engineers know may power off individual instances of their systems, so they design for this.
 When things go wrong it's something that hasn't gone wrong before, and was never supposed to happen. The solution may be where two knowledge silos meet.
 
-
-### We may still need silos
+### We need silos
 It tempting to say that having silos is bad and we need to get rid of them, and the frustration with some forms of silo behaviour is understandable. For complicated systems, knowledge silos are inevitable, in fact necessary, as 'fixing' them creates more problems (http://www.strategicstructures.com/?p=851).
 The silos may be functional - this team knows all about databases, this team knows all about security, this team knows all about software X.
 Or they may be around functionality - this team is responsible for this microservice.
