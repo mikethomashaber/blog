@@ -1,22 +1,25 @@
-# Coaching off Drama
+# Coaching off the Drama Triangle
 Overview of workshops for UoN Systems Development Group, Winter 2017.
 * Karpman Drama Triangle
  * Notice your own drama
- * Notice invites to drama
+ * Notice invites to drama from others
 * Tools to Coach yourself and others off Drama
  * Clean Feedback
  * Clean Setup
 * Putting it all together
-* Links to Oshrys Seeing Systems. Basements in Drama.
+* Links to Oshry's Seeing Systems. Basements in Drama.
 
 
 ## Karpman Drama Triangle
-We've seen the Drama Triangle Before. There is Persecutor Rescuer and Victim, and when in Drama we start at one of these positions.
+On the Drama Triangle there is Persecutor Rescuer and Victim, and when in Drama we start at one of these positions.
 
-We usually start when we age not getting what we want, and our starting position may be coupled with someone elses drama behaviour (and the coupled reaction of Barry Oshrys Seeing Systems is useful here), or we may get on the drama triangle ourselves, at our starting gate position.
+We usually get onto the Drama Triangle when we age not getting what we want, and our starting position may be coupled with someone else's drama behaviour or we may get on the drama triangle ourselves at our starting gate position. The coupled reaction of Barry Oshry's Seeing Systems is another useful perspective on conversations here.
 
 
-Once in drama we can quickly go through the 3 states, or oscilate between two. Note that the other parties are likely to be moving around the triangle too. The positions taken up may be influenced by Oshrys Seeing Systems and heirarchy too.
+Once in drama we can quickly go through the 3 states, or oscilate between two. Others are likely to be moving around the triangle too.
+
+
+![Coupled Drame](assets/drama-triangle-toxic-edit.png "Coupled Drama")
 
 ## Notice your own drama
  Initially it's useful to notice when you are on the drama triangle in different relationships in your life.
@@ -28,16 +31,15 @@ Once in drama we can quickly go through the 3 states, or oscilate between two. N
 
  #### What you say as Victim
 
-##Notice invites onto drama from others
+## Notice invites onto drama
 
-###When invited to Persecutor
+### When invited to join a Persecutor
 * But they are idiots, right?
-* Why did they do that? (with no curiosity)
+* Why did they do that? (without curiosity)
 
-###When invited to Rescue
-* Opps.
-* Arrgh.
-* I can't cope.
+### When invited to Rescue a Victim
+* Oops, I always get this wrong.
+* I can't do this.
 
 ### When invited to Victim
 * We'll there is nothing you can do, is there?
@@ -45,9 +47,8 @@ Once in drama we can quickly go through the 3 states, or oscilate between two. N
 * It's pointless for you to do that.
 
 ### What to Say when declining an invite to drama
-In declining an invite to dntrama there are at least two things occurring.
-* You decline to see the situation from the positions
-on the drama triangle.
+In declining an invite to drama there are at least two things occurring.
+* You decline to see the situation from any of the positions on the drama triangle.
 * You react to the response of the person behind the invite
  * They may be on the triangle themselves
  * or they may be knowingly getting you to react in a particular way
@@ -61,21 +62,34 @@ on the drama triangle.
 # The tools we need
 ### 1. Knowledge of the Drama Triange and our own starting gate positions
 
-### Exercises
-What are our patterns? What patterns do others notice?
+### Things to think about
+* What are our patterns?
+ * What patterns do others notice?
+* How do we get onto drama?
+* Are some people or situations better than others at getting us into drama?
 
 ## 2. Clean Feedback.
 ### Evidence, Inference, Impact
 
-### over 3 situations WWW, WWnsW, WCYDDnt
-We can ask these questions from each position on the drama triangle.
+For each position on the drama triangle that we occupy  in a situation we can ask for Clean Feedback. The format for Clean Feedback is
+* Evidence
+ * What happened exactly
+* Inference
+ * What conclusions are we making
+* Impact
+  * What effect does this have
 
-### Exercises
-Give clean feedback to others about what they have said and done.
-Use Evidence, Inference and Impact.
-WWW
-WWnsW
-WDYDDnt
+In Clean Feedback we ask the previous three questions for the following
+* What went well (www)
+ * Evidence, Inference, Impact
+* What went no so well (wwnsw)
+ * Evidence, Inference, Impact
+* What could work better next time (wcwbnt)
+ * Evidence, Inference, Impact
+
+### Practise Clean Feedback
+Give clean feedback to others.
+
 
 
 ### 3. Clean Setup
