@@ -19,17 +19,19 @@ We usually get onto the Drama Triangle when we age not getting what we want, and
 Once in drama we can quickly go through the 3 states, or oscilate between two. Others are likely to be moving around the triangle too.
 
 
-![Coupled Drame](assets/drama-triangle-toxic-edit.png "Coupled Drama")
+![Coupled Drama]({{"/assets/drama-triangle-toxic-edit.png" | absolute_url }})
+
+*This image show someone in the center, as victim and persecutor with 3 colleagues, who are persecuting and rescuing, and victim. The victim was previously rescuing*
 
 ## Notice your own drama
  Initially it's useful to notice when you are on the drama triangle in different relationships in your life.
 
- ### Exercises
- #### What you say as Persecutor
+### Exercises
+#### What you say as Persecutor
 
- #### What you say as Rescuer
+#### What you say as Rescuer
 
- #### What you say as Victim
+#### What you say as Victim
 
 ## Notice invites onto drama
 
@@ -73,41 +75,49 @@ In declining an invite to drama there are at least two things occurring.
 
 For each position on the drama triangle that we occupy  in a situation we can ask for Clean Feedback. The format for Clean Feedback is
 * Evidence
- * What happened exactly
+  * What happened exactly
+
 * Inference
- * What conclusions are we making
+  * What conclusions are we making
+
 * Impact
   * What effect does this have
 
 In Clean Feedback we ask the previous three questions for the following
 * What went well (www)
- * Evidence, Inference, Impact
+  * Evidence, Inference, Impact
 * What went no so well (wwnsw)
- * Evidence, Inference, Impact
+  * Evidence, Inference, Impact
 * What could work better next time (wcwbnt)
- * Evidence, Inference, Impact
+  * Evidence, Inference, Impact
 
-### Practise Clean Feedback
-Give clean feedback to others.
-
+### practice Clean Feedback
+Give clean feedback to others. Initially this can be for non-drama.
 
 
 ### 3. Clean Setup
-When <situation> goes as you'd like, it would be like what?
-When <situation> goes as you'd like, you would be like what?
-What resources do you need?
+We can use the Clean Setup questions
+When *drama situation* goes as you'd like, it would be like what?
+When *drama situation* goes as you'd like, you would be like what?
+What support or resources do you need?
 
 ## Alternative inquiry position for the Drama Triangle
-Using the Clean Feedback questions we can find out more about each position
-Persecutor to Validator
-What exactly did we see and hear?
-What feedback can we give?
-Then Clean Setup, and Development Task.
+Using the Clean Feedback questions we can find out more about ourselves in each position on the drama triangle. We can re-imagine the drama positions as
 
-Rescuer to Mediator
-What have we actually been asked to do?
-Then Clean Setup and Development Task.
+**Persecutor to Authenticator**
+* What *exactly* did we see and hear?
+* What feedback can we give?
+* What am I assuming about the situation?
+* What would I like to have happen
+* Use Clean Setup, and Development Task.
 
-Victim to ??
-What do we want to have happen?
-Then Clean Setup and Development task.
+**Rescuer to Mediator**
+* What happens before?
+* What have we *actually been asked* to do?
+* How do I know I have to?
+* Then Clean Setup and Development Task.
+
+**Victim to Negotiator**
+* What do I want to have happen?
+* What do I need to do before I get that?
+* Then Clean Setup and Development Task.
