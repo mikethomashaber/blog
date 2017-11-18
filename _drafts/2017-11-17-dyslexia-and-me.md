@@ -1,3 +1,7 @@
+---
+layout: post
+title: Dyslexia and stuff?
+--
 This is post 1 of a possible series.
 
 I grew up before dyslexia was really a thing. I went through school with scruffy writing, bad concentration and a lack of attention to detail. Living in a town dominated by heavy industry, maths, science and metalwork were the thing working class boys did. So that's what I did. My strategy was largely one of applying myself and banging my head against the problem until I figured it out. I assumed everyone else was the same.
@@ -22,6 +26,3 @@ understanding narratives, and thinking "what must have happened for this to be t
 I'm really good at those. And like I assumed people had to work as hard as me to learn stuff, I assumed they could see the things I could see. But that's not the case.
 
 More in part 2.
-
-
-

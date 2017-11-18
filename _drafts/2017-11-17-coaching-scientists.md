@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Science Metaphors?
+--
 Background
 
 I'm training to be a Coach, using a technique based in the clients metaphor models. Metaphors work well with many people. The metaphors we use can reveal a lot hidden understanding about a situation. They can also hide understanding. A very common outcome of the coaching is people getting a much deeper understanding of how they feel about and understand a situation.
@@ -39,5 +42,3 @@ This is an example of coaching, I'd take a slightly different approach with phys
 https://cleanlearning.co.uk/resources/faq/what-is-clean-language
 
 I've worked with a German chap called Olaf. He says he can only do metaphor modeling in English, which he finds a bit odd, but I don't think 1st/2nd language issues would be a problem.
-
-

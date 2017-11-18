@@ -1,3 +1,7 @@
+---
+layout: post
+title: Scrum Guide and Systems Thinking1?
+--
 NOTES> DAN MESZICK scrum is a learing organisation Peter Senge. Few enterprises are learning organisations.
 SCRUM is also a viable system, with feedback and requistite variety.
 

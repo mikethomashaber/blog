@@ -1,3 +1,7 @@
+---
+layout: post
+title: Why Coaching?
+--
 # Why Coaching?
 
 Work better with colleagues?

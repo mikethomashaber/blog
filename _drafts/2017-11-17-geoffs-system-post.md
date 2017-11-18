@@ -1,3 +1,7 @@
+---
+layout: post
+title: Systems Ideas?
+--
 https://www.linkedin.com/pulse/systems-thinking-novices-view-point-paul-taylor
 
 
