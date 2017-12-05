@@ -88,7 +88,7 @@ What support and resources do you need?
 Ask in a pair and then swap pairs for each question.
 
 # Thursday-02.mp3
-Why do we do ??
+Why do we do Clean Setup?
 
 Where is this groups attention and where is this groups attention. So if you were to ask what are the apppplications, what is the resaerch hw many organisations have you worked in. First question "What brings joy?". They wanted to know wether they trusted me.
 
