@@ -46,7 +46,7 @@ I've identified and tested two thing here.
 What should we do, who should do it, what we do next. This is what goes in the ITIL service management box 'fix the broken thing'.
 
 1. A overall systems map.
-This is not an architecture map, or the solution design, and those won't do what we want. It's purpose is to help solve problems, so it's different from the documents produced in architecture and design. It's owned by the DevOps or IT Operations team. 
+This is not an architecture map, or the solution design, and those won't do what we want. It's purpose is to help solve problems, so it's different from the documents produced in architecture and design. It's owned by the DevOps or IT Operations team.
 
 
 ### How to get a End to End systems diagram using Clean Interviewing
