@@ -8,6 +8,8 @@ Overview of workshops for UoN Systems Development Group, Winter 2017.
  * Clean Setup
 * Putting it all together
 * Links to Oshry's Seeing Systems. Basements in Drama.
+* Strenght Finder
+  * Do some strengths have easy entry onto the Drama Trianle through strengths basements
 
 
 ## Karpman Drama Triangle
@@ -26,7 +28,7 @@ Once in drama we can quickly go through the 3 states, or oscilate between two. O
 ## Notice your own drama
  Initially it's useful to notice when you are on the drama triangle in different relationships in your life.
 
-### Exercises
+### Exercises to put on Triangle
 #### What you say as Persecutor
 
 #### What you say as Rescuer
@@ -48,29 +50,39 @@ Once in drama we can quickly go through the 3 states, or oscilate between two. O
 * I'd just give up.
 * It's pointless for you to do that.
 
-### What to Say when declining an invite to drama
-In declining an invite to drama there are at least two things occurring.
-* You decline to see the situation from any of the positions on the drama triangle.
-* You react to the response of the person behind the invite
- * They may be on the triangle themselves
- * or they may be knowingly getting you to react in a particular way
+## Alternative inquiry position for the Drama Triangle
+Using the Clean Feedback questions we can find out more about ourselves in each position on the drama triangle. We can re-imagine the drama positions as
 
+**Persecutor to Authenticator**
+* What *exactly* did we see and hear?
+* What feedback can we give?
+* What am I assuming about the situation?
+* What would I like to have happen
+* Use Clean Setup, and Development Task.
 
+* What strength basesment may be here?
 
-# Coaching yourself off drama
+**Rescuer to Mediator**
+* What happens before?
+* What have we *actually been asked* to do?
+* How do I know I have to?
+* Then Clean Setup and Development Task.
 
-# Coaching someone else off drama
+* What strength basesment may be here?
 
-# The tools we need
-### 1. Knowledge of the Drama Triange and our own starting gate positions
+**Victim to Negotiator**
+* What do I want to have happen?
+* What do I need to do before I get that?
+* Then Clean Setup and Development Task.
 
-### Things to think about
-* What are our patterns?
- * What patterns do others notice?
-* How do we get onto drama?
-* Are some people or situations better than others at getting us into drama?
+* What strength basesment may be here?
 
-## 2. Clean Feedback.
+# Model Seeing Systems interaction using Drama Triangle
+ 
+
+# Tools to get off drama
+
+## Clean Feedback.
 ### Evidence, Inference, Impact
 
 For each position on the drama triangle that we occupy  in a situation we can ask for Clean Feedback. The format for Clean Feedback is
@@ -91,33 +103,9 @@ In Clean Feedback we ask the previous three questions for the following
 * What could work better next time (wcwbnt)
   * Evidence, Inference, Impact
 
-### practice Clean Feedback
-Give clean feedback to others. Initially this can be for non-drama.
 
-
-### 3. Clean Setup
+## Clean Setup
 We can use the Clean Setup questions
 When *drama situation* goes as you'd like, it would be like what?
 When *drama situation* goes as you'd like, you would be like what?
 What support or resources do you need?
-
-## Alternative inquiry position for the Drama Triangle
-Using the Clean Feedback questions we can find out more about ourselves in each position on the drama triangle. We can re-imagine the drama positions as
-
-**Persecutor to Authenticator**
-* What *exactly* did we see and hear?
-* What feedback can we give?
-* What am I assuming about the situation?
-* What would I like to have happen
-* Use Clean Setup, and Development Task.
-
-**Rescuer to Mediator**
-* What happens before?
-* What have we *actually been asked* to do?
-* How do I know I have to?
-* Then Clean Setup and Development Task.
-
-**Victim to Negotiator**
-* What do I want to have happen?
-* What do I need to do before I get that?
-* Then Clean Setup and Development Task.
