@@ -13,15 +13,32 @@ Knowing what pushes us into these states, and addresses these things in a Clean 
 ## My Patterns
 * wanting to show the tools "hey look at these cogs" before showing what they are capable of.
 * Talking about ideas, going from 1 to 10 missing a lot of stages
- * Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss astep and get lost.
-* I have patterns during the day, where  I do better work at some times of the day. I have a lot of momentum first thing
+ * Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.
+* I have patterns during the day, where  I do better work at some times of the day. I have a lot of momentum first thing, but need to talk to people ideally. Can lose momentum entirely later on.
 * Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works.
-Bike stuff and shed bases.
+ * Bike stuff and shed bases.
 
 * Making 'expensive mistakes' to reduce variety.
-Like getting taxis.
+ * Like getting taxis.
 
 * Ignoring peoples viewpoints if I don't 'like' them or if I'm tired. Just 'blanking' as if not worthy.
+
+* I'm happy doing things inefficiently or long hand, even though I know and can design better ways to work
+ * Using computer software badly
+ * Not remembering commands and shortcuts
+
+* I often prefer to wing it on meeting and workshops rather than be organized and have a plan.
+ * This can end badly
+ * Too much planning is bad, but there needs to be enough
+
+* I don't like causing a fuss, or asking for what I'm entitled to. This may be because I don't like getting negative feedback.
+ * didn't mention when a client didn't show - I case I had got it wrong.
+
+* I find it hard to update knowledge. When I know something it can be hard to revise this information when there is new ways.
+ * So I can learn new things and then not keep up with progress
+
+## Coaching Patterns
+* I'm can be quite fast, wanting to move on quickly.
 
 # Reptillian Brain
 ## Getting into Reptillian
@@ -40,6 +57,8 @@ Working and thinking hard for a long time and being tired.
 Not having options, stress about times, locations and bookings. I make bad decisions.
 
 Hearing misinterpreted facts
+
+Changing plans with a poor reason (secondment)
 
 ## Getting out of Reptillian
 
