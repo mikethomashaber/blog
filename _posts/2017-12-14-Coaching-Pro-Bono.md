@@ -13,6 +13,8 @@ I've solved my own problems all my life. But Clean Coaching has helped me unders
 I'm getting started coaching, and I have a job to pay the rent. So if you'd like to get more of what you want drop me a line and for a limited time it won't cost you nothing. (I mean it *will* cost you nothing.)
 
 
-The specific training I'm doing is ILM 5 Coaching and Mentoring with Clean Language, with Marion Way and Clean for Teams with Caitlin Walker.
+The specific training I'm doing is
+* [ILM 5 Coaching and Mentoring with Clean Language](https://cleanlearning.co.uk/does/detail/ilm-level-5-certificate-coaching-mentoring), with   (Marion Way)[https://cleanlearning.co.uk/are/marian-way]
+* [Systemic Modelling](https://cleanlearning.co.uk/resources/faq/what-is-systemic-modelling) with [Caitlin Walker](https://cleanlearning.co.uk/are/caitlin-walker)
 
-* I'm not a therapist. But I know some good ones if you need them.
+*I'm not a therapist. But I know some good ones if you need them.
