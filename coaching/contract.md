@@ -1,20 +1,17 @@
----
-layout: post
-title: Mike Haber Coaching and Consulting
----
-### mike@make10louder.co.uk
+# Coaching Contract
+### Mike Haber :mike@make10louder.co.uk
 ### 07565 178 791
 ### https://appear.in/make-10-louder
 
-Coachee:
-Date:
-Number of Sessions:
+Coachee:  
+Date:  
+Number of Sessions:  
 Cost per session:
 
 #### As your coach, I will:
 * Be open, honest, non-judgemental and will raise any issues that occur during the coaching
 * Be focused on you and your best interests, which include your goals and outcomes
-* Support and encourage you while you develop 
+* Support and encourage you while you develop
 * Ask you questions that might challenge your ideas and thoughts as you progress and develop
 
 #### The person being coached undertakes to:
