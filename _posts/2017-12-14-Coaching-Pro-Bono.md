@@ -4,7 +4,7 @@ title: So, I'm a coach.
 ---
 Some of you may know I'm currently training to be a coach. Put simply this enables me to help you get more of the things you want. That can be getting in zone more often, coping better in situations, working out things that don't feel right.
 
-Clean Language coaching is great for people who like me, sometimes need some help solving their own problems. I won't tell you what to do, but I'll help you work out what you needs to happen. The questions I ask *are the coaching* so I can help with most thing I can ask a question about*.
+Clean Language coaching is great for people who like me, sometimes need some help solving their own problems. I won't tell you what to do, but I'll help you work out what needs to happen. The questions I ask *are the coaching* so I can help with most thing I can ask a question about*.
 
 The people I've coached already say I've got a friendly relaxed style that brings out 'lightbulb moments'. I'm curious and non judgmental, which is partly what the 'Clean' bit means.
 
