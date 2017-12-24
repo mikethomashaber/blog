@@ -6,7 +6,7 @@ Some of you may know I'm a coach. Basically this enables me to help you get more
 
 Clean Language coaching is great for people who like me, sometimes need some help solving their own problems. I won't tell you what to do, but I'll help you work out what needs to happen. The questions I ask *are the coaching* so I can help with most thing I can ask a question about*.
 
-The people I've coached already say I've got a friendly relaxed style that brings out 'lightbulb moments'. I'm curious and non judgmental, which is partly what the 'Clean' bit means.
+The people I've coached already say I've got a friendly relaxed style that brings out 'lightbulb moments'. I'm curious and non judgmental, which is partly what the 'Clean' bit means. I've coached people to deal with difficult situations at work to getting in the zone when sports training.  
 
 I've solved my own problems all my life. But Clean Language Coaching has helped me understand what's going on in a way that I couldn't otherwise see. I've got skills now that I can use to help others.
 

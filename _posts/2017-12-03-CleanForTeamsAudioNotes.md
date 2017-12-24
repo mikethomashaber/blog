@@ -128,4 +128,33 @@ C: If I was repppeating my own systems I coudn't pay attention to other systems 
 M: I struggle with see an elephant. I've never seen an elephant, never been to a zoo, so my elephnant  is not a real elephant it's on a tv screen, but when you say see a bridge, I've seen loads of bridges, I can do that. I thought I might always go abstract, but I didn't. So I was quite surprised C: and that's simpilar with groups. Sometimes that grouppps response is because of the kind of question you asked them, rather than that's....
 
 C: lets do a bit more and we'll try and notice any patterns. Choose a different sense. Feel ice. What kind of ice.
-G: Ice cube. Is there anything else? It's smooth, cold and wet. Whereabouts is the ice cube. In my hand. What colour is it? Opaque white. Who's not got G's icecube, Who's got a different one?  I went to a bar ages ago, and there was a big blovk of ice on the bar. QUite popular in other countries. I'd quite like one. And then I was noticing the mirror was dirty, and ice is clean. Who's got a question for S? Whereabout is ? It's on the bar, in this bar I went to. What do you do with it? You look at it, they have some lights on it, it looks quite nice. They shave it to make some cocktails, it was like a working artform the clarity of it was quite beautiful. Is there anything else about the colour? It was ice blue, when you see David Attenborough things, and ice has that blueness.  
+G: Ice cube. Is there anything else? It's smooth, cold and wet. Whereabouts is the ice cube. In my hand. What colour is it? Opaque white. Who's not got G's icecube, Who's got a different one?  I went to a bar ages ago, and there was a big block of ice on the bar. Quite popular in other countries. I'd quite like one. And then I was noticing the mirror was dirty, and ice is clean. Who's got a question for S? Whereabout is ? It's on the bar, in this bar I went to. What do you do with it? You look at it, they have some lights on it, it looks quite nice. They shave it to make some cocktails, it was like a working artform the clarity of it was quite beautiful. Is there anything else about the colour? It was ice blue, when you see David Attenborough things, and ice has that blueness.  
+*SOME MORE TO TRANSCRIBE HERE*
+
+Thursday-03.mp3
+I'm a bit confused about what systemic modeling, and I'm confused what you're aiming for in bringing stuff out.
+So, Clean Language is just a set of questions you can use for 1000 things. Symbolic Modeling is where you use it to model the symbols in an individuals system.
+Systemic Modeling means  you train a system to self organize. Systemic modelling is where a system is self modeling. So it's like
+* We're a bit like this - so lets do that then
+* Oh you want that, I don't do it, but Tanya does, go and ask her
+* Do you know this is the third time this has gone wrong, let's find out what's happening, so the system self models.
+And what I am doing is training a series of principals, from an experiencial level rather than a theoretical level.
+* What's presented is not the same as what is inferred
+  ** So I can present one instruction and the inference is different
+(diagram in notes - the first one)
+(Drawn not the way I draw it )
+* It's the difference between what actually happened and what you are making up has happened.
+* Detect your own patterns
+* Detect others patterns
+* Training your sensory acuity in order to build useful models
+* If this was "How do like email in our team" if you say "I'd like them short" that doesn't mean everyone is going to infer the same thing.
+Short for you is not short for everyone. It's not your elephant. So that's why you say "So when it's short what would I see and hear?"
+So you know that (you) like lots of detail and to now what's going on, so you know that is your pattern, but if I know M. doesn't and he gets overwhelmed I don't send him long detailed emails and expect him to sift through them for the details. I *know* so I've used my sensory acuity to pick up this information, I've detected patterns in him and now my model for an email to him will be different to the model of an email to G. because I will adjust myself just enough or I will say to them "do you know what it's too hard to work out the models I just want to send my emails the way I send them, so now what are we going to do we have to negotiate" (woof)
+So, with emails look at what they've just sent you, if they've put two paragraphs I'll put two paragraphs, I theirs is a page I'll make it a page. It's more likely to get a quick bit off rapport. If someone (who writes a lot) saw two lines they'd say "You've not really read that email"
+So all of the skills training in the five senses is required to ask "How do you get just enough juice? going in the group, so they don't do the opposite of this and think their truth is the truth - so they don't mistake their patterns with your patterns"
+"Oh you're late, so you must have no regard for this group" - but actually that would be true for me, but I wonder what it means for K. and they don't mix up - they don't just build models based on (diagram) this squashed up, because this squashed up is just a narrative of the wy things are drama/horror you have to keep paying attention, and keep going round these circuits in order to get a user model for this team or this person or this customer.
+So it's a contineous thing, with these arrows - you're always separating them you're keeping them apart.
+*It's very hard for us to percieve that other people have patterns that we absolutely don't have.*
+So if we don't keep going round the model becomes less useful, becomes stagnant, obsolete, based on misinformation.
+
+*Has anyone else got any questions, just for where we are right now?*

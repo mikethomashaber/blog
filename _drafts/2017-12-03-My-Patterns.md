@@ -10,35 +10,74 @@ Things that put me in the Reptillian Brain feeling like "I Can't Think", and the
 
 Knowing what pushes us into these states, and addresses these things in a Clean Setup is necessary when working with challenging groups.
 
+
 ## My Patterns
 * wanting to show the tools "hey look at these cogs" before showing what they are capable of.
+  * talking about the coaching details after a coaching session
 * Talking about ideas, going from 1 to 10 missing a lot of stages
- * Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.
+  * Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.
 * I have patterns during the day, where  I do better work at some times of the day. I have a lot of momentum first thing, but need to talk to people ideally. Can lose momentum entirely later on.
 * Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works.
- * Bike stuff and shed bases.
+  * Bike stuff and shed bases.
 
 * Making 'expensive mistakes' to reduce variety.
- * Like getting taxis.
+  * Like getting taxis.
 
 * Ignoring peoples viewpoints if I don't 'like' them or if I'm tired. Just 'blanking' as if not worthy.
 
 * I'm happy doing things inefficiently or long hand, even though I know and can design better ways to work
- * Using computer software badly
- * Not remembering commands and shortcuts
+  * Using computer software badly
+  * Not remembering commands and shortcuts
 
 * I often prefer to wing it on meeting and workshops rather than be organized and have a plan.
- * This can end badly
- * Too much planning is bad, but there needs to be enough
+  * This can end badly
+  * Too much planning is bad, but there needs to be enough
 
 * I don't like causing a fuss, or asking for what I'm entitled to. This may be because I don't like getting negative feedback.
- * didn't mention when a client didn't show - I case I had got it wrong.
+  * didn't mention when a client didn't show - I case I had got it wrong and not to embarass someone
 
 * I find it hard to update knowledge. When I know something it can be hard to revise this information when there is new ways.
  * So I can learn new things and then not keep up with progress
+* Another way to put this is to say that I don't refactor
+ * I keep going with the same Ideas. Refactoring is hard.
+
+* I don't like having a plan when I am unsure of something.
+ * I'll avoid planning. But I think I'm good with uncertainty.
+ * Is it a particular type of uncertainty?
+
+* I'm very bad at technical task switching
+ * But seem to task switch all the time when learning
+
+* I can withdraw help when I don't feel appreciated or acknowledged. Worse if my work or idea is mis-assigned to someone else
+
+* I can close down with a default 'no action ' when stresses or unhappy
+
+* I often start to argue in my head if something is bothering me, either made up arguments with the person I have problems with or more general arguments when there is a issue that isn't yet available to me.
+
+* I don't like having to justify myself to people that I don't feel I need to give a justification to. I'd rather not justify myself and take the consequences. I may be trying to avoid being judged and so being told that what I'm doing doesn't have  worth.
+ * For example, talking to the external consultancy people at work. I don't want to find out / care if they think the coaching I do is any good, or valuable. It's none of their business. Which may just be me being an arsehole.
+ * Another example is preferring to pay for my own training, rather than ask for work to pay, as work is going to make a judgment as to if it is worthwhile. If they say no, then I pay for the training myself I end up in drama.s
+
+
+### Organizational Models
+
+* I know I should use daily lists - Even a daily Clean Setup, but I often don't
+
+* Template and script ideas. Templates for stuff would rule. Even scripts
+
+
+
+
 
 ## Coaching Patterns
 * I'm can be quite fast, wanting to move on quickly.
+
+* My feedback tends to be quite technical.
+ * This shows I appreciate technical competence
+ * I guess I don't like technical incompetence, even it the results are good.
+ * I'm not skilled enough to be able to judge technical competence
+  * Sometimes when reading transcripts I think " I wouldn't have said that..."
+
 
 # Reptillian Brain
 ## Getting into Reptillian
