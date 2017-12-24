@@ -129,7 +129,9 @@ M: I struggle with see an elephant. I've never seen an elephant, never been to a
 
 C: lets do a bit more and we'll try and notice any patterns. Choose a different sense. Feel ice. What kind of ice.
 G: Ice cube. Is there anything else? It's smooth, cold and wet. Whereabouts is the ice cube. In my hand. What colour is it? Opaque white. Who's not got G's icecube, Who's got a different one?  I went to a bar ages ago, and there was a big block of ice on the bar. Quite popular in other countries. I'd quite like one. And then I was noticing the mirror was dirty, and ice is clean. Who's got a question for S? Whereabout is ? It's on the bar, in this bar I went to. What do you do with it? You look at it, they have some lights on it, it looks quite nice. They shave it to make some cocktails, it was like a working artform the clarity of it was quite beautiful. Is there anything else about the colour? It was ice blue, when you see David Attenborough things, and ice has that blueness.  
+
 *SOME MORE TO TRANSCRIBE HERE*
+
 
 Thursday-03.mp3
 I'm a bit confused about what systemic modeling, and I'm confused what you're aiming for in bringing stuff out.
@@ -148,6 +150,7 @@ And what I am doing is training a series of principals, from an experiencial lev
 * Detect others patterns
 * Training your sensory acuity in order to build useful models
 * If this was "How do like email in our team" if you say "I'd like them short" that doesn't mean everyone is going to infer the same thing.
+
 Short for you is not short for everyone. It's not your elephant. So that's why you say "So when it's short what would I see and hear?"
 So you know that (you) like lots of detail and to now what's going on, so you know that is your pattern, but if I know M. doesn't and he gets overwhelmed I don't send him long detailed emails and expect him to sift through them for the details. I *know* so I've used my sensory acuity to pick up this information, I've detected patterns in him and now my model for an email to him will be different to the model of an email to G. because I will adjust myself just enough or I will say to them "do you know what it's too hard to work out the models I just want to send my emails the way I send them, so now what are we going to do we have to negotiate" (woof)
 So, with emails look at what they've just sent you, if they've put two paragraphs I'll put two paragraphs, I theirs is a page I'll make it a page. It's more likely to get a quick bit off rapport. If someone (who writes a lot) saw two lines they'd say "You've not really read that email"
@@ -158,3 +161,11 @@ So it's a contineous thing, with these arrows - you're always separating them yo
 So if we don't keep going round the model becomes less useful, becomes stagnant, obsolete, based on misinformation.
 
 *Has anyone else got any questions, just for where we are right now?*
+
+So , what I am about to do is to layer metaphors, so the reason we use metaphors, and we don't have to we can easily do this without a metaphor in sight(!), unlike symbolic modeling which is absolutely about symbols, the reason we use them is they are much more efficient carriers of information to the individual and they are memorable. So I can remember peoples metaphors for years and years afterwards, when I can't remember who they are or their names, but I know their metaphors. They have a wholeness to them, so "I know how that works", whereas with just a description you have to put it together yourself.
+
+In Clean for Teams we'll do three metaphors
+* Learning at your Best
+* At your worst
+* time
+Three metaphors in a team give you predictability, so if someone said can you do an awayday, and I said I don't do those, but I can do you three sets of 2 hours. I don't have a lot of time so I'll just do 3 metaphors, if they want a transformational change program I'll do six, and that's because when you do six metaphors, when you know five of your own metaphors you go 'oh that's me all over' it's a real deep understanding of yourself and you tend to shift.
