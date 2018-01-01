@@ -18,6 +18,95 @@ Develop an understand of yourself as a viable system.
 
 Develop a strategy to reach your goals.
 
+From https://coachingsitesthatwork.com/29-things-clients-love-to-read-about-on-your-site/
+
+#### Setting goals, clear, true to you
+
+Goal setting via SODA, looking at what you want to be know for, what it takes to get there and what you need to do today to do that.
+Using Cognitive Maps, Personal Construct theory and Clean Scoping.
+
+
+
+
+#### Staying accountable?
+Personal VSM, accountable is a resource bargain.
+
+#### Teaching new skills, knowledge, or learning
+Learning at my Best is like what?
+
+
+#### Knowing yourself, how you got here, strengths, weaknesses
+
+User manual for you. Clean Language at your best, time.
+
+At my worst, Triuine Brain, Can't think, Not Happpy, Neo Cortex.
+
+#### Give constant positive reinforcement ?
+
+#### Identify and resolve blocks, pitfalls, self-sabotaging behavior
+
+Patters via clean language modelling PRO, Drama Triangle. How else to find patterns we don't want.
+
+#### Connect/reconnect to the passion and purpose in their life/business
+
+SODA & Dialogue Mappping. Personal VSM.
+
+#### Creating a clear path, plan to achieve goals
+
+#### Understanding the impact they currently possess
+
+#### Challenging assumptions, beliefs
+For what purpose? Cognitive mapping can do this.
+
+#### An honest assessment from someone with no agenda
+Assesment. Via Cognitive Mapping
+
+#### Motivate them, a kick in the pants
+
+#### Confidence building
+
+#### Help in keeping things simple
+SODA cognitive mapping
+
+#### Learning who am I, I’m ok you’re ok
+User manual for me.
+
+#### Relaxation, stress management
+
+#### Taking responsibility for one’s self, stop blaming or waiting
+Drama Triangle, Binds.
+
+#### Say yes to what we want (wealth consciousness)
+
+#### Know your numbers, measure results
+nope
+
+#### Help them stop negative self-talk
+nope
+
+#### Get clear on where to begin to change things
+
+#### Maintain a peace of mind, body, spirit
+?
+
+#### Challenge and change limiting beliefs
+
+#### Challenge their ego vs heart-centered mind
+
+#### Develop positive mindset, better thinking patterns
+
+#### How to get around fear and doubt
+
+#### Learning marketing and sales
+
+#### Tactics to stay on top of all tasks (email, calls, tasks)
+VSM and systems in Getting Things Done
+
+#### Replace old theories, assumptions
+But what with?
+
+
+
 # The coaching I offer
 
 Non directive Clean Language coaching to work to get more of your strengths, find ways to get more of what you want, less of what you don't want.

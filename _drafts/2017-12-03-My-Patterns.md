@@ -3,6 +3,18 @@ layout: post
 
 title: My Patterns
 ---
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
 
 When working as a facilitator with groups it's important to do a Clean Setup that ensures that you are in the Neo-Cortex part of the brain.
 
@@ -11,14 +23,82 @@ Things that put me in the Reptillian Brain feeling like "I Can't Think", and the
 Knowing what pushes us into these states, and addresses these things in a Clean Setup is necessary when working with challenging groups.
 
 
-## My Patterns
-* wanting to show the tools "hey look at these cogs" before showing what they are capable of.
+## My Patterns, relating to Clifton Strenghts
+
+## #1 Strategic
+
+|Balcony|Basement|Examples||
+|:------|:-------|-|-|
+|Sees the way to go as well as alternatives and different paths|Overtly quick decisions|DRAMA- Others Ignoring shared purpose for gain||
+|Intutive|Doesn't Connect the dots for others|Talking about ideas, going from 1 to 10 missing a lot of stages |Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.|
+||Gets Stuck on a solution. Closed Minded| Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works|Bike stuff and shed bases|
+
+## #2 Ideation
+
+|Balcony|Basement|
+|:-----------------------|:-------------------|
+|Quick Thinker and Learner|Lacks follow through|
+|Improves Things|Can't stick things out|
+|Sees Connections|Creates more work|
+
+
+
+## #3 individualization
+
+|Balcony|Basement|Examples|
+|:------|:-------| |
+|Understands Uniqueness of all|Difficulty placing group above individual| This helps me stay off drama|
+|Knows one size doesn't fit all|Difficulty making people decisions||
+|Appreciated differences| |-|
+
+## #4 Learner
+
+|Balcony|Basement|
+|:------|:-------|
+|Loves Learning|Know it all|
+|Quick to grasp new ideas|Doesn't produce results|
+|Interested and intrigued by life|-|
+
+
+
+## #5 Arranger
+
+|Balcony|Basement|Examples||
+|:------|:-------|||
+|Makes sense of things|Doesn't like existing rules or procedures|*Dislikes being told what do*||
+|Flexible|Changes Priority|I often prefer to wing it on meeting and workshops rather than be organized and have a plan|Too much planning is bad, but there needs to be enough|
+|Able to Organize|Lacks Vision|||
+|Constantly seeking best configuration| |-|-|
+
+
+# My Dyslexia Patterns
+
+|MIND Pattern  |Balcony|Basement|
+|:------|:------|:-------|
+|Material Reasoning||Low input bandwidth|
+|M|Spatial Thinking|- |
+|M|Visual Thinking|- |
+|M|Navigation|- |
+|Interconnected Reasoning|-|-|
+|I|Interconected Thinking|-|
+|I|Pattern Detection|-|
+|I|Big Picture|-|
+|Narrative Reasoning|-|-|
+|N|Story Telling|-|
+|N|Personal Memory|-|
+|N|Scene Creation|-|
+|Dynamic Reasoning||-|
+|D|Goal Directed|-|
+|D|Future Prediction|-|
+|D|Complex Systems|-|
+
+* ~~wanting to show the tools "hey look at these cogs" before showing what they are capable of.~~
   * talking about the coaching details after a coaching session
-* Talking about ideas, going from 1 to 10 missing a lot of stages
-  * Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.
+* ~~Talking about ideas, going from 1 to 10 missing a lot of stages~~
+  * ~~Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.~~
 * I have patterns during the day, where  I do better work at some times of the day. I have a lot of momentum first thing, but need to talk to people ideally. Can lose momentum entirely later on.
-* Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works.
-  * Bike stuff and shed bases.
+* ~~Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works.~~
+  * ~~Bike stuff and shed bases.~~
 
 * Making 'expensive mistakes' to reduce variety.
   * Like getting taxis.
@@ -29,9 +109,9 @@ Knowing what pushes us into these states, and addresses these things in a Clean 
   * Using computer software badly
   * Not remembering commands and shortcuts
 
-* I often prefer to wing it on meeting and workshops rather than be organized and have a plan.
+* ~~I often prefer to wing it on meeting and workshops rather than be organized and have a plan.~~
   * This can end badly
-  * Too much planning is bad, but there needs to be enough
+  * ~~Too much planning is bad, but there needs to be enough~~
 
 * I don't like causing a fuss, or asking for what I'm entitled to. This may be because I don't like getting negative feedback.
   * didn't mention when a client didn't show - I case I had got it wrong and not to embarass someone

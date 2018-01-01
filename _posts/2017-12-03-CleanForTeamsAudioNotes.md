@@ -169,3 +169,9 @@ In Clean for Teams we'll do three metaphors
 * At your worst
 * time
 Three metaphors in a team give you predictability, so if someone said can you do an awayday, and I said I don't do those, but I can do you three sets of 2 hours. I don't have a lot of time so I'll just do 3 metaphors, if they want a transformational change program I'll do six, and that's because when you do six metaphors, when you know five of your own metaphors you go 'oh that's me all over' it's a real deep understanding of yourself and you tend to shift.
+
+So if they want the group to work better I do three, if I want them to transform do six.
+Because you need personal trasformation to get full on group transformation.
+All of this stuff I just learnt by accident. I used to just do three, then a grouup I worded with longer I did more, and went "oh". Five years later I thought "That's interesting, all of these groups transformed I wonder what the difference was. Oh it's because they had three metaphors, and they had six." I didn't come at this theoretically, I was just asking clean language in groups, over and over and all of this started to come out, to emerge from it.
+
+And you can make them relavent to the group, so I'm doing some basic ones with you bbecause I don't know you, but for example when we went to M. they wanted to develop collective trust.
