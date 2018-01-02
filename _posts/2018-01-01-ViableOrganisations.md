@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creating Viable Organisations
---
+title: Creating Viable Organizations
+---
 
 Looking at working groups of 'consultants' for example law firms. Since these exist they must be viable. Looking at how they do this my provide ideas.
 
