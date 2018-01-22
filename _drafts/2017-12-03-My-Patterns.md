@@ -3,18 +3,7 @@ layout: post
 
 title: My Patterns
 ---
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+
 
 When working as a facilitator with groups it's important to do a Clean Setup that ensures that you are in the Neo-Cortex part of the brain.
 
@@ -25,7 +14,7 @@ Knowing what pushes us into these states, and addresses these things in a Clean 
 
 ## My Patterns, relating to Clifton Strenghts
 
-## #1 Strategic
+## #1 St|¬rategic
 
 |Balcony|Basement|Examples||
 |:------|:-------|-|-|
