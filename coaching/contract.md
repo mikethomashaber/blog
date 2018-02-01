@@ -1,5 +1,5 @@
 # Coaching Contract
-### Mike Haber :mike@make10louder.co.uk
+### Mike Haber: mike@make10louder.co.uk
 ### 07565 178 791
 ### https://appear.in/make-10-louder
 
