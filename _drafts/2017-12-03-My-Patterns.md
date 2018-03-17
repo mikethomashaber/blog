@@ -14,13 +14,15 @@ Knowing what pushes us into these states, and addresses these things in a Clean 
 
 ## My Patterns, relating to Clifton Strenghts
 
-## #1 St|¬rategic
+## #1 Strategic
 
 |Balcony|Basement|Examples||
 |:------|:-------|-|-|
 |Sees the way to go as well as alternatives and different paths|Overtly quick decisions|DRAMA- Others Ignoring shared purpose for gain||
 |Intutive|Doesn't Connect the dots for others|Talking about ideas, going from 1 to 10 missing a lot of stages |Instead of (Gay) making sure I slowly take people from 1-2-3-4-5-6-7-8-9-10 so that they don't miss a step and get lost.|
 ||Gets Stuck on a solution. Closed Minded| Creating my own solutions when there are good solutions available. Not taking the time to understand how what is available works|Bike stuff and shed bases|
+I often don't like to change the first solution I find. Perhaps because I invest so much mental energy  into it.
+I'll use tools right and wrong before realizing they are the wrong tools. Like doing tables in markdown.
 
 ## #2 Ideation
 
@@ -29,7 +31,7 @@ Knowing what pushes us into these states, and addresses these things in a Clean 
 |Quick Thinker and Learner|Lacks follow through|
 |Improves Things|Can't stick things out|
 |Sees Connections|Creates more work|
-
+Comments with connecions often are unhelpful.
 
 
 ## #3 individualization
